@@ -1,0 +1,1112 @@
+:: StoryTitle
+IF Project Workshop Sample
+
+
+:: StoryData
+{
+  "ifid": "140687FB-9BCB-42EA-8F90-2F7C4EA387CC",
+  "format": "Harlowe",
+  "format-version": "3.3.5",
+  "start": "Start",
+  "zoom": 0.6
+}
+
+
+:: 1A {"position":"500,400","size":"100,100"}
+''Chapter 2 - Stairs That Groan Louder Than My Conscience''
+
+There are moments in life when you realize — with the clarity of someone watching a slow-motion disaster — that you’ve made a terrible decision. Running into the haunted house was one of those moments.
+
+The door didn’t just creak as I shoved it open the rest of the way. It //howled// — the long, agonizing wail of wood that hasn’t been disturbed in decades, the kind of sound that makes you question whether the house itself is alive and just very, very angry that you’re here. It was the sort of sound you hear right before the main character in a horror movie says, “Hello? Is someone there?” — which, for the record, I absolutely did //not// say. I’m reckless, not ridiculous.
+
+Dust spiraled in the air like it had been waiting for someone foolish enough to come inside and give it a reason to perform. The wallpaper — which, in some unfortunate century, might have boasted a cheerful pattern of flowers — now resembled a crime scene. Brown stains crawled down the walls, and I told myself they were just ancient coffee spills and //definitely// not the result of something seeping, oozing, or //bleeding// through the plaster.
+
+And then there was the smell.
+
+Imagine an old basement, a forgotten attic, and a pie left on the windowsill for roughly a century, all blended together into one pungent, nose-wrinkling aroma. It was the precise scent of //decay with a hint of dessert// — which, incidentally, would make a terrible name for a candle.
+
+“Muffin?” I whispered — not because I thought whispering would help, but because somehow saying his name too loudly might also summon something else. Something that would be less excited about cat treats and more interested in //me//.
+
+No response.
+
+Of course.
+
+Instead, a sound drifted down from the staircase — soft, delicate, and painfully familiar.
+
+//Meow.//
+
+My heart did a very unhelpful somersault.
+
+Upstairs. Muffin was upstairs.
+
+Because of course he was. It wasn’t like he would hide under the first piece of furniture he saw or conveniently wait by the door. No, Muffin had chosen the most haunted part of the most haunted house to explore, like a feline ghost hunter with a death wish.
+
+I took a step forward, and the floorboard beneath me groaned — not a polite little creak, but an //offended// one. The house wasn’t just old; it was //judgmental//.
+
+Another //meow//.
+
+But this time, something else.
+
+A faint creaking noise… from the basement.
+
+Because of course there was a basement.
+
+The air grew heavier, the way it does when a storm is about to break — or when a house is considering whether to swallow you whole.
+
+My options, grim as they were, became immediately clear:
+
+[[2A<-Venture upstairs after Muffin — because cats belong in cozy windowsills, not creepy basements, and I refuse to let him befriend a ghost.]]
+
+[[2B<-Investigate the basement — because, historically, ignoring ominous sounds in haunted houses has always worked out so //well// for everyone.]]
+
+
+
+:: 1B {"position":"1300,400","size":"100,100"}
+''Chapter 2 - A Haunted House Is Best Explored with Someone Who Runs Slower Than You''
+
+There’s a certain kind of bravery that involves charging into danger without a second thought. I, however, am a firm believer in the //other// kind of bravery — the kind where you recognize you’re in a horror movie situation and decide, quite wisely, that you would prefer not to die alone.
+
+Which is why I yanked my phone out of my pocket and, with fingers that were definitely not shaking (except they absolutely were), called the only person I knew in this town: Max.
+
+Max and I became friends on my first day of school. To be clear, //he// decided we were friends the moment he found out which street I lived on. “Did you know that your street famous in town? You saw that old house down your street, right? Well, it’s actually haunted. Or, so people say." Apparently, bonding over potential ghost sightings is a fast-track to friendship — at least in Max’s world.
+
+He’s obsessed with the paranormal. Ghosts, curses, creepy legends — Max knows them all. While other kids talk about sports or video games, Max spends his time researching how to trap spirits or decode ancient runes. So when my cat sprinted into //that// house, Max was the obvious person to call. Honestly, I think he’s been waiting for this moment his whole life.
+
+The phone rang once.
+
+"Did you see a ghost?" Max answered, skipping the whole "hello" thing entirely.
+
+"No, Max — Muffin ran into the haunted house. I need backup."
+
+There was a sharp intake of breath. "I’ll be there in ten minutes. Don’t go inside without me."
+
+True to his word, Max appeared at the rusted gate in record time — slightly out of breath, holding a flashlight the size of a small baseball bat and a notebook already bristling with sticky notes. His backpack, which I’m 90% sure was full of ghost-hunting gear, clinked ominously with every step.
+
+"This place is //definitely// cursed," he said, practically buzzing with excitement. "Did you know the last person to live here disappeared without a trace? Probably taken by vengeful spirits. Or a time portal. Either way, something unnatural."
+
+"Great," I muttered. "Let’s go inside."
+
+The door, still half-open like a mouth about to deliver bad news, seemed even darker now with the sun inching lower in the sky. The house loomed above us, silently judging both our life choices.
+
+Max flicked on his flashlight. "You know, some ghosts are drawn to pets. They sense the animal’s energy." He paused dramatically. "Muffin might’ve been lured here on purpose."
+
+"Super comforting, thanks."
+
+We stepped inside.
+
+The air was thick — not just with dust, but with the kind of heavy silence that makes you feel like you’re being watched. The floor groaned under our weight, and the wallpaper seemed to peel just a little more the longer we stared at it, as though the house itself was slowly unraveling.
+
+Then we heard it.
+
+//Meow.//
+
+It echoed from deeper within the house.
+
+"Your cat’s gonna get us killed," Max whispered, but he was grinning.
+
+"Probably," I replied.
+
+We now had two terrible ideas to choose from:
+
+[[2C<-Head to the kitchen — because cats like food, and maybe Muffin was investigating some long-forgotten crumbs rather than, you know, a ghost.]]
+
+[[2D<-Split up — because nothing says "brilliant plan" like dividing forces in a clearly haunted house. (Max’s idea, obviously.)]]
+
+
+
+:: 2A {"position":"300,600","size":"100,100"}
+''Chapter 3 - Ghosts Don’t Pay Rent, So Why Is This House Occupied?''
+
+There’s a special kind of fear that comes with walking upstairs in a haunted house.
+
+It’s not the ordinary, everyday fear — like failing a math test or realizing you just hit “Reply All” on an email meant for one person. No, this fear feels //ancient// — a fear so old and ingrained that the air itself seems to be holding its breath, waiting to see what happens next.
+
+The staircase groaned as I put one foot on the first step. Not a polite creak — a //groan//. The kind of sound a house makes when it’s deeply offended by your presence and would like you to know it.
+
+Another step. Another groan. Each board beneath my feet protested like I was personally insulting its ancestors.
+
+“Muffin?” I whispered, because clearly the best way to lure a cat was through sheer desperation and false hope.
+
+Silence.
+
+Then, a soft meow floated down from above.
+
+Of course, he didn’t come running. No, that would be too easy. Instead, he sounded even //further// away — probably perched on the most haunted piece of furniture in the most cursed room of the house, plotting my emotional collapse.
+
+As I reached the top of the stairs, the temperature dropped. It wasn’t the usual “maybe there’s a draft” kind of cold — this was the creeping chill that seeps into your bones.
+
+The second floor was worse than the first.
+
+The hallway stretched in both directions, lined with closed doors, each one looking more suspicious than the last. The wallpaper here wasn’t just peeling — it was //curling// at the edges, like it was trying to escape the walls entirely. The air smelled stale, like dust and forgotten secrets. A thick layer of dust coated the floor, untouched except for a single trail of small paw prints.
+
+Muffin’s.
+
+I followed them — because, apparently, I had decided that chasing my cat through a horror movie was a brilliant life choice.
+
+Halfway down the hall, a thought struck me — a loud, unwelcome thought.
+
+I should’ve called Max.
+
+Max, my self-proclaimed expert on ghosts, curses, and all things paranormal. The boy who once spent an entire lunch period explaining how to identify a vengeful spirit versus a confused one (the difference, apparently, lies in the color of the aura). Max, who would be absolutely furious that I entered a haunted house without him because, in his words, “If you see a ghost and I’m not there, it doesn’t count.”
+
+But no — instead of calling Max, the walking encyclopedia of ghost lore, I heroically decided to follow Muffin into a haunted house. A flawless plan, really.
+
+The paw prints led to the last door at the end of the hall — a door slightly ajar, with just enough of a gap to suggest something had recently passed through it. The darkness behind the door seemed heavier, more solid, like it was waiting for me.
+
+I pushed the door open.
+
+The room was small and cluttered with old furniture draped in sheets, like ghosts pretending to be chairs. And there, perched on a dusty shelf, tail twitching and eyes wide, was Muffin.
+
+“Muffin,” I hissed, taking a cautious step inside. “We are going to have a long talk about your life choices.”
+
+Muffin blinked, clearly unbothered by the whole "haunted house" situation.
+
+Then, behind me —
+
+A //creak//.
+
+The kind of //creak// that floors don’t make on their own. Not the faint settling of an old house, but the deliberate sound of a //footstep//.
+
+I froze. My heart thudded loud enough to qualify as a drum solo performed by a particularly nervous drummer.
+
+Another //creak//.
+
+And then… breathing.
+
+Soft. Steady. Too close.
+
+The fine hairs on the back of my neck stood straight up. The silence that followed wasn’t the empty kind — it was //full//, like the air itself had weight, and something was standing just behind me, waiting.
+
+I didn’t want to turn around.
+
+I //needed// to turn around.
+
+And now, I had two choices, both of which seemed equally horrible:
+
+[[3A<-Slowly turn around and face whatever is standing there — because clearly, that’s what brave people do, and I’m //definitely// one of those people… right?]]
+
+[[3B<-Don’t turn around. Grab Muffin and //run// — because there’s a reason people say "don’t look back," and I’m starting to think they were onto something.]]
+
+
+
+:: 2B {"position":"700,600","size":"100,100"}
+''Chapter 3 - Going Downstairs in a Haunted House — A Brilliant Plan, Obviously''
+
+Basements are never a good idea.
+
+They’re dark. They’re damp. And they always — //always// — contain something you wish you hadn’t seen. Like a spider the size of a dinner plate. Or an old doll with one eye mysteriously missing. Or, in this case, whatever was making that soft, rhythmic //creak// from the bottom of the stairs.
+
+But, like the brilliant person I clearly am, I decided the best course of action was to follow the sound.
+
+The basement door didn’t just open — it //yawned// open, the hinges groaning like they hadn’t moved in years. The stairs leading down weren’t merely steep — they seemed to //plunge// into the kind of darkness usually reserved for forgotten nightmares and poorly lit horror movies. The air reeked of wet concrete, mildew, and… cheese? Old, rotting cheese. Because apparently, this house couldn’t just be //haunted// — it also had to //smell bad//.
+
+“Muffin?” I whispered, as though my cat might cheerfully respond, ‘Yes, I’m down here in the evil cheese-scented basement. Please rescue me at your earliest convenience.’
+
+Silence.
+
+Naturally.
+
+I took a step down. The stair groaned beneath me — not a casual squeak of old wood, but the kind of sound that suggested the house was personally offended by my choices. Luckily, there was a bit of light coming from a window somewhere, so I could make out the shape of things.
+
+I took another step, and sure enough there was another groan — longer this time, like the house was sighing in disappointment.
+
+Halfway down the stairs, a thought struck me — a loud, unwelcome thought.
+
+I should’ve called Max.
+
+Max, my self-proclaimed expert on ghosts, curses, and all things paranormal. The boy who once spent an entire lunch period explaining how to identify a vengeful spirit versus a confused one (the difference, apparently, lies in the color of the aura). Max, who would be absolutely furious that I entered a haunted house without him because, in his words, “If you see a ghost and I’m not there, it doesn’t count.”
+
+But no — instead of calling Max, the walking encyclopedia of ghost lore, I heroically decided to follow Muffin into a haunted house. A flawless plan, really.
+
+I'll make sure to call Max next time. Although, I rather there not be a next time.
+
+The air grew heavier the deeper I went, pressing against my skin like an unwelcome hug from someone you barely know. 
+
+Then I heard it.
+
+A scratch.
+
+A soft, deliberate //scratch// from behind a teetering pile of old boxes in the corner. The sound of something — or someone — moving.
+
+My heart decided now was the perfect time to launch into a drum solo.
+
+I approached the boxes slowly. “Muffin?”
+
+Another //scratch//.
+
+To be fair, it //could// be Muffin. He has a fondness for playing hide-and-seek in boxes — usually when I need him to go to the vet or when he's just feeling particularly chaotic. There’s a non-zero chance he’s currently having the time of his life under a pile of haunted cardboard.
+
+But then —
+
+One of the boxes shifted.
+
+Not a dramatic, flying-across-the-room kind of move — just a small, shuffling drag across the dusty floor. It was upside down, the open flaps pressed against the ground, and something underneath it… //pushed//.
+
+Once. Twice.
+
+Like it was trapped.
+
+The sensible part of my brain, which clearly had the night off, gently reminded me that there was a non-zero chance the noise wasn’t my cat. Perhaps it was a rat. Perhaps it was a ghost. Perhaps it was a //ghost rat//. All excellent options.
+
+And so, I was left with two choices — both of which were absolutely horrible:
+
+[[3C<-Investigate the box — because clearly, lifting an upside-down box that's moving on its own is a brilliant way to reunite with Muffin… or unleash something far less cuddly.]]
+
+[[3D<-Ignore the box — because a scratch without a meow is definitely //not// Muffin, and whatever’s under that box can stay there.]]
+
+
+
+:: 2C {"position":"1100,600","size":"100,100"}
+''Chapter 3 - The Kitchen — Where the Only Thing on the Menu Is Terror''
+
+The kitchen was… //suspiciously// clean.
+
+Not //actually// clean, of course — that would imply someone had dusted or mopped this century — but compared to the rest of the house, it was unsettlingly tidy. The counters wore a light coat of dust, as though the house wanted to maintain its spooky reputation without fully committing. The sink, a rusted antique that looked capable of swallowing a small child, didn’t appear to be oozing ghostly slime — which, at this point, felt like a small miracle. Even the air smelled less like //ancient doom// and more like //cinnamon’s evil twin// — sharp, bitter, and slightly rotten.
+
+Max, however, wasn’t bothered by any of this. His flashlight beam darted around the room like it was trying to catch a ghost red-handed.
+
+"Ghosts like kitchens," Max whispered, because apparently, stating weird facts in a dramatic tone was his thing.
+
+"Of course they do," I muttered. "What ghost doesn’t love a good snack?"
+
+"It’s about //residual energy//," Max said, as if that explained anything. "Kitchens are emotional hotspots. People cook here. They gather here. They argue here." He swung the flashlight dramatically toward a dark stain on the wall — a splatter that looked suspiciously like someone had lost a battle with a bottle of ketchup.
+
+"That’s pasta sauce," I said firmly. "Or… paint. Definitely not ghost blood."
+
+Max squinted at the stain, visibly disappointed.
+
+Then —
+
+//Meow.//
+
+The sound sliced through the silence like a knife.
+
+"Muffin?" My voice cracked.
+
+We both whipped around toward the sound.
+
+And that’s when we saw it.
+
+The cupboard.
+
+It was glowing.
+
+Not a soft, comforting glow — like a nightlight in a child’s room — but a sinister, //pulsing// glow. A cold blue light oozed out from the cracks between the cupboard doors, flickering in a slow rhythm… like a heartbeat.
+
+Max gasped. "That’s… that’s…"
+
+"Bad?" I offered.
+
+"//Incredible//," Max corrected, his eyes practically sparkling with excitement.
+
+Of course Max thought the clearly haunted, possibly otherworldly cupboard was the best thing he’d ever seen. He was already scribbling something in his ghost-hunting notebook, probably a line like, //Unnatural cupboard, pulsating with spectral energy. Potential portal//.
+
+Meanwhile, I was just hoping the cupboard wasn’t planning to eat us.
+
+Then — and I swear I’m not imagining this — the light //flickered//, like whatever was inside had just noticed we were watching.
+
+We now had two terrible choices:
+
+[[3E<-Open the glowing cupboard — because what could possibly go wrong when you open something that’s //clearly// cursed?]]
+
+[[3F<-Ignore the glowing cupboard — because sometimes the bravest thing you can do is pretend the terrifying magical phenomenon simply //does not exist//.]]
+
+
+
+
+:: 2D {"position":"1500,600","size":"100,100"}
+''Chapter 3 - Teamwork Means Going in Opposite Directions, Apparently''
+
+“We should split up,” Max said, with the kind of casual confidence usually reserved for people who have never watched a horror movie or, apparently, used common sense.
+
+I stared at him. “That’s the worst idea I’ve ever heard.”
+
+Max shrugged, his flashlight beam bouncing off the cracked walls like a spotlight searching for ghosts. “It’s what the professionals do.”
+
+“Professionals with //death wishes//,” I muttered.
+
+But, in the twisted logic of a boy who once tried to build a homemade ghost trap out of a shoebox and duct tape, splitting up made perfect sense. According to Max, it would “cover more ground” and “increase our chances of finding Muffin.” Personally, I thought it just increased the chances of one of us being //dragged into the shadow realm//.
+
+So there we were — standing in a hallway that looked like it was losing a slow battle with gravity. The wallpaper peeled in long strips, curling at the edges like the house was shedding its skin. The doors lining the corridor were all firmly shut, as if whatever lurked inside preferred its privacy.
+
+“Fine,” I said at last. “But if a ghost takes me, I’m haunting //you// first.”
+
+Max grinned, like that was the best compliment he'd ever received.
+
+We split up.
+
+Max marched down the hallway to the left, his flashlight swinging in wild, unnecessarily large arcs, like he was trying to summon something. I took the right, inching past closed doors that seemed too closed — the kind of closed that suggested they weren’t just doors, but //boundaries// keeping something in.
+
+The air grew heavier with every step I took. The floor groaned — not the polite creak of old wood, but a long, //accusatory// moan, like the house was personally offended by my presence. Dust floated through the beam of my flashlight, swirling like tiny ghosts whispering, //You really shouldn’t be here//.
+
+Then — CRASH.
+
+The sound was so loud, so sharp, it felt like a physical blow. My heart, already doing a nervous tap dance, launched into a full-blown drum solo.
+
+It came from the living room.
+
+“Max?” My voice cracked so dramatically it could’ve won an award for “Least Heroic Sound Ever.”
+
+Silence.
+
+Because, of course, Max didn’t answer.
+
+And now, I was faced with two equally bad choices — the kind where no matter what I picked, the universe would probably punish me for it:
+
+[[3G<-Rush to the living room — because Max might be in trouble, and if he’s not, //I definitely am//.]]
+
+[[3H<-Stay focused on finding Muffin — because Max was the genius who suggested splitting up, and if he's been devoured by a ghost, that's on //him//.]]
+
+
+
+
+:: 3A {"position":"200,800","size":"100,100"}
+''Chapter 4 - When a Ghost Gives Directions, Don’t Ask Questions''
+
+I didn’t want to turn around.
+
+But my body, unhelpfully ignoring every survival instinct I had, did it anyway — slow and shaky, like a character in a horror movie who hasn’t yet realized they //are// a character in a horror movie.
+
+The air felt heavier, colder. The kind of cold that doesn’t just nip at your skin — it //sinks// into it. The upstairs room, already dim, seemed even darker as the sun began to set, casting long, creeping shadows that stretched across the walls like grasping fingers.
+
+And then I saw it.
+
+A figure.
+
+Pale, translucent, and unmistakably //not alive//.
+
+It stood just a few feet away — a ghost, staring at me with hollow, sunken eyes. Its form shimmered faintly, like mist caught in a draft, and though its face was blank, I could feel its gaze pinned on me.
+
+My heart slammed against my ribs, a panicked drumroll announcing my impending doom.
+
+This was it.
+
+The end.
+
+I was about to become the kid who got eaten by a ghost — the tragic story Max would excitedly tell at school, mourning the fact that //he// hadn’t been there to witness it.
+
+The ghost didn’t move. I stood there, holding my breath, waiting for it to come at me — for the inevitable lunge, the icy grip, the horrifying end. Any second now.
+
+But we just stood there, locked in the world’s most horrifying staring contest.
+
+Then, after what felt like an eternity, the ghost did something I absolutely did //not// expect.
+
+It lifted a hand and pointed.
+
+Not at me.
+
+At the shelf.
+
+“Nope,” I whispered, because //nope// felt like the only reasonable response.
+
+But my legs were still frozen, so all I could do was glance at the dusty shelf — the same shelf where Muffin had been perched moments earlier, glaring at me like //I// was the problem.
+
+The ghost kept pointing. Silent. Unmoving.
+
+My throat was dry. My brain was screaming for me to run, but now I was somehow more afraid to //turn my back// on the ghost than to stand there and obey whatever horrifying suggestion it was making.
+
+So, with my free hand trembling, I slowly shuffled toward the shelf.
+
+As I got closer, I noticed the thin layer of dust had been disturbed — tiny paw prints trailing behind the clutter of forgotten knickknacks.
+
+“Muffin?” I croaked.
+
+A small, familiar meow came from behind a stack of old books.
+
+Relief and panic hit me all at once. Muffin — the //reason// I was in this nightmare house — was crouched behind the books, tail puffed up like a bottle brush.
+
+With one last glance at the still-pointing ghost, I reached behind the books and grabbed Muffin.
+
+He let out a furious hiss — probably more annoyed at me than whatever ghostly horror was in the room — but I held him tight, ignoring the claws digging into my arm.
+
+The ghost still hadn’t moved.
+
+“Thanks?” I said — because, apparently, that was the best I could come up with when confronted by a helpful ghost.
+
+As if satisfied, the ghost slowly lowered its arm. Then, without a sound, it began to fade — its misty form dissolving into nothingness until I was left alone with Muffin in the now very silent room.
+
+My brain took a moment to process everything.
+
+Then, gripping Muffin tight, I bolted for the door.
+
+Because, friendly or not, I wasn’t hanging around to find out if the ghost had any //other// helpful suggestions.
+
+
+
+:: 3B {"position":"400,800","size":"100,100"}
+''Chapter 4 - If Something’s Behind You, Don’t Look — Unless You Want to Regret It''
+
+I didn’t turn around.
+
+Because, despite every bone in my body screaming to //look//, I remembered one very important rule: if something horrifying is behind you, the last thing you want to do is //acknowledge// it.
+
+Acknowledging it means you’re part of the story now — the tragic kid who saw the ghost, locked eyes with it, and promptly vanished forever.
+
+So I didn’t turn around.
+
+Instead, I focused on the shelf — the dusty, creaking shelf where Muffin had last been perched, glaring at me like all of this was somehow //my// fault.
+
+“Muffin,” I whispered, inching closer. “We are leaving. Right now.”
+
+A soft meow answered me — not from the shelf, but from somewhere lower. Behind a pile of old, crumbling books stacked haphazardly on the floor.
+
+Of course.
+
+Because why would my cat choose to stay somewhere //visible// when he could wedge himself into the most inconvenient, terrifying corner possible?
+
+The air grew heavier with every step I took — thick and cold, like the room itself was holding its breath right along with me. The ghost behind me hadn’t made a sound, but I could //feel// it, like the silence was a living thing.
+
+Don’t look back.
+
+//Don’t look back//.
+
+I dropped to my knees, heart pounding, and peered behind the books.
+
+Two glowing eyes stared back at me.
+
+My soul nearly left my body — until I heard the unmistakable sound of an annoyed hiss.
+
+“Muffin,” I croaked, both relieved and absolutely furious. “I’m going to ground you for the rest of your //nine lives//.”
+
+He didn’t seem particularly concerned.
+
+I reached forward, grabbing him by the scruff of his neck as he let out another offended yowl. His claws found my arm, but I didn’t care. The only thing I cared about was getting out of that room.
+
+Still without looking back.
+
+Holding Muffin tight to my chest, I rose to my feet, moving slowly — not out of bravery, but because I was pretty sure if I moved too fast, the ghost would //remember I existed//.
+
+Each step toward the door felt like wading through water, the air so dense I thought I might suffocate before I even reached the hallway.
+
+Muffin squirmed the whole time — naturally — but I held on, murmuring every empty promise I could think of.
+
+“We’re almost out.”
+
+“You’re fine.”
+
+“I’ll give you all the tuna in the world.”
+
+Finally — finally — I reached the doorway. The hall beyond looked impossibly dark, but at least it wasn’t this room.
+
+I stepped through.
+
+And only then — once the threshold was behind me — did I run.
+
+I didn’t stop until I was back in the main hall, Muffin still wriggling in my arms, the door to the ghost’s room slammed shut behind me.
+
+I didn’t look back.
+
+Not once.
+
+
+
+:: 3C {"position":"600,800","size":"100,100"}
+''Chapter 4 - Boxes Shouldn’t Move, But Here We Are''
+
+There’s a fine line between bravery and foolishness. As I reached for the upside-down box, I realized I had just tripped over that line and landed face-first into //bad decisions//.
+
+The box twitched again — a small, shuffling motion that suggested whatever was under there wasn’t just a forgotten sock or a particularly lively dust bunny. No, this movement was deliberate, like something was testing the weight of its cardboard prison.
+
+I gripped the edge of the box. “Muffin?”
+
+No meow.
+
+Just silence.
+
+Which, for the record, is never what you want when confronting a mystery creature in a haunted basement.
+
+My heart was pounding so loudly it felt like the rest of my body was just a supporting character in its one-catastrophic-beat concert.
+
+“Okay,” I muttered to myself, “it’s probably Muffin. Probably. Definitely. Hopefully.”
+
+With a deep breath and a complete disregard for self-preservation, I lifted the box.
+
+Nothing.
+
+Nothing but a small pile of crumpled paper and a very annoyed-looking mouse — definitely not a ghost mouse, but still, a mouse with a //deeply unsettling aura// — that darted into a crack in the wall.
+
+I blinked.
+
+“Seriously?”
+
+The box hadn’t been haunted. It had just been a temporary prison for a rodent with questionable timing.
+
+But before I could even begin to feel relief — or maybe embarrassment — something else happened.
+
+A whisper.
+
+Not the whisper of the wind or the groan of the old house settling. No, this was a voice — faint, distant, but //there//.
+
+It said my name.
+
+My //actual name//.
+
+I froze.
+
+Another whisper, this time closer.
+
+And then, ever so slowly, the pile of boxes in the corner — the ones I hadn’t touched — //shifted//.
+
+Not a mouse.
+
+Not Muffin.
+
+Something //else//.
+
+My brain screamed at my legs to move. Run. Bolt up the stairs and never look back.
+
+My legs, however, seemed to have quit their job.
+
+I stood there, frozen in place, as the air grew heavier and colder, like the room itself was holding its breath along with me.
+
+And then — I saw it.
+
+A figure. Pale. Translucent. Drifting out from behind the boxes.
+
+A ghost.
+
+This was it. The end. I was going to be that kid — the one who went into a haunted house for his cat and never came back. Poor Max would be so disappointed he didn’t get to witness it. Too bad I wouldn’t live long enough to tell him he was right about the whole “vengeful spirits are real” thing.
+
+The ghost floated silently, its hollow eyes fixed on me. My heart was hammering so hard I thought the ghost could hear it — maybe it was even offended by the sheer volume of my panic.
+
+Then… it raised an arm.
+
+I braced for the worst — a ghostly shriek, a curse, a full-body possession — but instead, the ghost simply… //pointed//.
+
+Its thin, pale finger aimed at a far corner of the basement — where a pile of old furniture sat draped under a dusty cloth.
+
+And then, just as silently as it appeared, the ghost faded away.
+
+Gone.
+
+I didn’t move for a solid ten seconds, just blinking at the empty air where it had been.
+
+Was this how ghosts worked? They just showed up, pointed at things, and left?
+
+Eventually — when my legs remembered their job — I shuffled toward the pile of furniture. The cloth-covered shapes loomed like silent statues, and for a moment, I wondered if the ghost had just directed me to an even //worse// ghost.
+
+Then — //pounce//.
+
+Out from under the cloth shot a blur of cream-colored fur, straight into my arms.
+
+“Muffin!” I yelped, catching him as he squirmed and meowed loudly, as though //I// was the problem here.
+
+I clutched him to my chest, heart still racing, and glared down at the now-rumpled cloth. “You’re //kidding// me. You were hiding there the whole time?”
+
+Muffin blinked, utterly unimpressed by the ghost or my near-death experience.
+
+“Unbelievable,” I muttered. “We’re having a serious talk about this when we get home.”
+
+Without wasting another second, I bolted up the basement stairs — Muffin still firmly in my arms — and out of the haunted house, slamming the door behind me.
+
+Because, ghost or not, I was //not// staying a second longer.
+
+
+
+:: 3D {"position":"800,800","size":"100,100"}
+''Chapter 4 - How to Rescue a Cat Who Doesn’t Want to Be Rescued''
+
+I didn’t stick around to find out what was scratching inside the box.
+
+Because here’s the thing about haunted basements — you don’t investigate the creepy noises. You //ignore// them. You pretend you didn’t hear them. You tell yourself it’s the wind, even though you know full well there’s no wind in a basement.
+
+So, I did the only reasonable thing: I turned on my heel and marched in the opposite direction of the box and the creepy noise. 
+
+“Muffin!” I hissed, louder this time — because now, //now// I was desperate. “This isn’t funny!”
+
+A meow answered me.
+
+My heart did a somersault.
+
+It came from the far side of the basement, behind a pile of furniture draped in dusty sheets. Great. Of course, Muffin had chosen to hide in the creepiest possible place — because why pick a sensible hiding spot when there’s an entire haunted house to explore?
+
+The air felt heavier the closer I got, the smell of mildew and something faintly metallic pressing against me like a warning.
+
+I stopped in front of a sagging, moth-eaten sofa. The cloth draped over it looked like it hadn’t been moved in decades, its surface coated in a thick layer of dust. 
+
+“Muffin?” I bent down, squinting into the darkness beneath the sofa.
+
+A cloud of dust exploded into my face.
+
+I coughed — hard — doubling over and waving a hand in front of me, which, in hindsight, was the //worst// time to be both blind and making loud, choking noises.
+
+And then… I saw them.
+
+Two glowing eyes staring back at me from under the sofa.
+
+I swallowed. “Muffin?”
+
+A hiss.
+
+Sharp, familiar, and unmistakably cat-like.
+
+Relief flooded through me — quickly followed by confusion.
+
+Why was Muffin hissing? He wasn’t stuck. He wasn’t hurt. He was just… //angry//.
+
+But what was he so afraid of?
+
+I didn’t wait to find out.
+
+I laid down flat on the ground and reached forward, my hand groping through the dark.
+
+“Muffin, come on, let’s go,” I muttered.
+
+Another hiss. Then — claws.
+
+I yelped as Muffin’s claws raked across my arm, but I didn’t let go. He squirmed and thrashed as I grabbed him by the scruff and yanked him out from under the sofa.
+
+“Oh no you don’t,” I growled, holding him tightly as he wriggled like a furry tornado.
+
+But even as I clutched Muffin to my chest — his tail whipping wildly, his claws digging into my shoulder — a cold wave of unease crept down my spine.
+
+Something was watching us.
+
+The air had shifted, heavier now — not just with dust and mildew, but with something else. Something //wrong//.
+
+I didn’t stop to  look back. I didn’t try to figure out what had Muffin so freaked out.
+
+I just ran.
+
+Because it’s better to escape with a few scratches on your arms than to stick around long enough to get eaten by a ghost — or worse.
+
+
+
+:: 3E {"position":"1000,800","size":"100,100"}
+''Chapter 4 - The Cupboard That Should Have Stayed Closed''
+
+The cupboard was still glowing.
+
+It wasn’t a soft, magical glow — like a fairy tale chest filled with hidden treasure. No, this was a sickly, pulsing light, cold and blue, like the cupboard had a heartbeat. A very wrong, very //haunted// heartbeat.
+
+Max, of course, was delighted.
+
+“This is //amazing//,” he whispered, crouching beside the cupboard like it was the best thing that had ever happened to him. “We have to open it.”
+
+“Do we?” I asked, because that felt like a very bold conclusion to jump to.
+
+Max shot me a look — the same look you give someone who refuses to pet a cute dog. Except this wasn’t a cute dog. This was a cupboard that was glowing like it belonged to another dimension.
+
+I stayed planted a safe distance away while Max reached out, his hand hovering over the handle. The light seemed to flicker in response — like it was //aware//.
+
+“Max,” I said slowly, “maybe we should… not?”
+
+But Max, being Max, grinned like we were about to discover a ghostly jackpot.
+
+He grabbed the handle.
+
+The light flared — not brighter, but //deeper//. The blue shifted to an inky, swirling black, and for a split second, I thought I saw something move behind the cracks of the door.
+
+And then Max opened it.
+
+The light died instantly.
+
+Darkness flooded the room — thick, suffocating darkness that felt less like the absence of light and more like the //presence// of something else.
+
+Inside the cupboard, there was… nothing.
+
+No shelves. No dishes. Just an empty, hollow space.
+
+But the longer I stared into that empty space, the more I realized it wasn’t just //empty// — it was //wrong//. Too deep. Too dark. Like the cupboard wasn’t a cupboard at all, but a hole punched through reality.
+
+“Uh… Max?”
+
+“Do you hear that?” Max whispered.
+
+I didn’t hear anything — until I did.
+
+A faint sound. A soft, distant //drip drip drip// — like water leaking somewhere impossibly far away.
+
+And then, from deep inside the cupboard, something //scratched//.
+
+That was it.
+
+“Nope,” I said, grabbing Max’s arm. “We’re leaving.”
+
+“But—”
+
+“//Nope//.”
+
+The scratching sound came again — louder this time, like whatever was inside the impossible, empty cupboard was now aware we were standing there.
+
+Without thinking, I lunged forward and slammed the cupboard shut.
+
+For half a second, there was silence.
+
+Then, the door creaked.
+
+Slowly, painfully, it began to open again — an inch at first, then wider.
+
+And something //black// — a hand, or something shaped like a hand — slipped out from the crack, its long fingers curling against the edge of the cupboard.
+
+“RUN,” I shouted, grabbing Max by the arm and dragging him out of the kitchen.
+
+We sprinted into the hallway, hearts pounding, feet barely touching the ground. I didn’t look back — I didn’t //want// to look back — but I could hear the slow scrape of the cupboard door swinging open behind us.
+
+And then —
+
+A //hiss//.
+
+I skidded to a stop.
+
+There, in the hallway, tail puffed up like a bottle brush and eyes glowing in the dim light, was Muffin.
+
+He wasn’t running.
+
+He was facing the kitchen door — his gaze locked on whatever had just tried to crawl out of that cupboard — hissing like he was ready to fight a ghostly arm three times his size.
+
+“Muffin!” I gasped.
+
+Without hesitation, I scooped him up with one arm, his claws digging into my shoulder. He kept hissing — at me, at the kitchen, at //everything// — but I wasn’t letting go.
+
+“Come on, Max!”
+
+With Muffin squirming in one arm and Max’s wrist clutched in the other, I bolted for the front door.
+
+We didn’t stop running until we were outside, the haunted house looming behind us, silent once more.
+
+My heart was still racing. Muffin was still growling. Max, catching his breath, finally spoke.
+
+“That,” he panted, “was //incredible//.”
+
+I stared at him. “You need new hobbies.”
+
+
+
+:: 3F {"position":"1200,800","size":"100,100"}
+''Chapter 4 - When the Cupboard Opens Itself, It’s Time to Leave''
+
+Ignoring the glowing cupboard seemed like a great plan — the kind of plan a //smart// person would make.
+
+“Let’s just go,” I whispered, already taking a step back. “We don’t have to know what’s in there.”
+
+Max, of course, looked //offended//. “But what if it’s a portal to another dimension?”
+
+“Even //more// reason not to open it.”
+
+Max’s eyes lit up. “What if there’s something trapped inside — like a spirit? Or a cursed object? Or—”
+
+“Or what if it’s //just a creepy cupboard// and we leave without becoming ghost food?” I cut him off.
+
+He blinked at me. “But what if it’s not?”
+
+“Max.”
+
+“I’m just saying — we might never get another chance like this.”
+
+“That’s the //point//,” I hissed. “We don’t //want// another chance like this.”
+
+Max gave the cupboard a longing look, like it was a rare artifact at a museum and not a glowing box of supernatural doom.
+
+“Come on,” I said, tugging his sleeve. “We are not opening it.”
+
+He sighed dramatically. “You’re no fun.”
+
+“I’m alive. That’s more important.”
+
+For once, Max didn’t argue — though I could tell it physically hurt him to walk away from a possibly haunted, reality-bending cupboard. He kept glancing over his shoulder as I dragged him toward the hallway.
+
+The light from the cupboard pulsed softly — blue and steady, like the world’s most cursed heartbeat. It didn’t fade. It didn’t flicker. It just… //watched//.
+
+I tried not to think about that.
+
+We edged back into the hallway, and I gently — very gently — pulled the kitchen door shut.
+
+Silence.
+
+“See?” I whispered, like I hadn’t just barely survived the most stressful moment of my life. “Nothing happened. We’re fine.”
+
+Then something //clicked//.
+
+A soft sound. Sharp. Mechanical.
+
+Like a lock turning.
+
+Max and I froze.
+
+It came from the other side of the kitchen door — from the //cupboard//.
+
+I didn’t want to look. I didn’t want to think about how a cupboard could possibly make a clicking sound.
+
+Another click.
+
+Then a soft, slow //creak//.
+
+The door handle //twisted//.
+
+“RUN,” I said — louder this time — grabbing Max’s arm.
+
+We bolted down the hallway, feet thudding against the dusty floor, the kitchen door creaking wider behind us.
+
+I didn’t look back.
+
+I didn’t want to know what was opening the cupboard.
+
+All I knew was that I wasn’t staying to see it.
+
+We ran — past the ancient wallpaper peeling off the walls, past the broken furniture, past the half-collapsed staircase — until we skidded to a stop.
+
+Because there, in the hallway, was Muffin.
+
+Sitting perfectly still. Tail flicking. Staring at us with a face that clearly said, //What took you so long?//
+
+“Muffin,” I gasped, half laughing, half crying. “Let’s go.”
+
+I scooped him up before he could bolt again, ignoring the claws digging into my arm. Muffin let out an angry yowl but didn’t fight too hard — like even //he// knew something wasn’t right.
+
+Max was still breathing heavily, but his face was glowing with excitement. “What do you think was in the cupboard?”
+
+“//Nothing good//,” I snapped, heading straight for the front door.
+
+We didn’t stop running until we were out of the house, the night air cold and sharp against my skin.
+
+Muffin squirmed in my arms, but I held him tighter, already halfway down the street.
+
+“Let’s //never// talk about this again,” I muttered.
+
+Max grinned. “Let’s talk about it //all the time!//.”
+
+Because, of course, he would.
+
+
+
+:: 3G {"position":"1400,800","size":"100,100"}
+''Chapter 4 - Ghosts Have Opinions on Interior Design''
+
+I didn’t think.
+
+I just ran.
+
+Max might have been the one with the ghost obsession, but at that moment, I was the one sprinting down the hallway like my life depended on it — because, honestly, it probably did.
+
+The crash had come from the living room. A sharp, splintering sound, like something heavy had fallen… or been //pushed//.
+
+“Max?” I hissed as I ran, but he didn’t answer.
+
+Which, for the record, is //never// what you want when you’re in a haunted house.
+
+The hallway seemed longer than before — like the house itself was stretching, making me run farther, keeping me trapped in a loop of dusty wallpaper and groaning floorboards.
+
+And then I reached the living room.
+
+It was a disaster.
+
+A small table lay broken in the center of the room, one leg snapped clean off. An old lamp — the kind with a frilly shade and a base shaped like something ugly — was toppled over beside it. The air was thick with dust, like the house had exhaled after holding its breath for years.
+
+But Max wasn’t there.
+
+“Max!” I said again, louder this time, panic creeping into my voice.
+
+And then —
+
+“Over here.”
+
+I spun around.
+
+Max was crouched by the fireplace, his hand resting on the cold brick, his glasses slightly askew like he’d just narrowly avoided getting flattened by the collapsing table.
+
+“What happened?” I demanded, heart still pounding.
+
+Max grinned. “Something //pushed// the table.”
+
+I blinked at him. “Something //what//?”
+
+“I saw it!” He adjusted his glasses. “It didn’t fall — it //moved//.”
+
+“Great,” I said, “so the ghost is //redecorating//. Let’s go.”
+
+But Max wasn’t moving. “Wait — there’s more.”
+
+He pointed to the wall above the fireplace.
+
+At first, I didn’t see it. Just a layer of grime and peeling wallpaper.
+
+But then —
+
+A handprint.
+
+Faint, smeared, and impossibly high up the wall — far too high for a normal person to reach without standing on something. And the fingers were too long, too thin.
+
+Max looked like he’d just discovered buried treasure. “It’s a //ghost mark//.”
+
+“It’s a //let’s-get-out-of-here mark//,” I snapped. “Max, we need to leave. Now.”
+
+And then the temperature dropped.
+
+Not the normal drafty chill of an old house — this was //deeper//. Sharper. Like the air itself was turning solid.
+
+My breath came out in a thin cloud.
+
+Max's grin finally faded. “Did you feel that?”
+
+I didn’t answer.
+
+Because, behind Max — reflected in the cracked glass of the fallen lamp — I saw something move.
+
+A figure.
+
+Pale. Hollow-eyed.
+
+And far too close.
+
+I grabbed Max's arm. “//Run//.”
+
+We bolted — out of the living room, down the endless hallway, feet slamming against the floor as the air grew colder behind us.
+
+The house groaned — a long, low sound — and for a split second, I thought I heard something else beneath it.
+
+A whisper.
+
+My name.
+
+We didn’t stop running until we were outside, the house looming behind us — silent, still, and watching.
+
+Max, breathless but grinning, pushed his glasses up his nose. “Told you it was haunted.”
+
+I didn’t respond.
+
+Because I was too busy watching the living room window.
+
+Where, just for a moment, I thought I saw a pale hand press against the glass before fading away.
+
+
+
+:: 3H {"position":"1600,800","size":"100,100"}
+''Chapter 4 - A Shadow That Remembers Your Name''
+
+I didn’t go to the living room.
+
+Because, let’s be honest — nothing good ever happens in the living room of a haunted house. It’s always the spot where some ancient rocking chair moves by itself, or a ghostly figure appears in the reflection of a dusty mirror.
+
+So, instead of sprinting toward the obvious danger, I did the //smart// thing — I kept searching for Muffin.
+
+“Max can handle himself,” I muttered under my breath, even though I wasn’t entirely sure that was true.
+
+The hallway seemed even darker now, the last traces of daylight bleeding away through the cracked windows. Shadows clung to the walls like they belonged there — long, thin shapes that didn’t move when I did.
+
+“Muffin?” I whispered again, because apparently, I thought my cat might suddenly develop the ability to answer me in full sentences.
+
+Silence.
+
+Then — //a thud//.
+
+Not from the living room.
+
+From ahead.
+
+I froze.
+
+Another //thud// — louder this time — coming from behind a half-open door at the end of the hallway.
+
+And then — a sound I knew all too well.
+
+A //hiss//.
+
+“Muffin!”
+
+Without thinking — and against every ounce of common sense I had left — I rushed toward the door.
+
+The room was small and cluttered, filled with old furniture draped in moth-eaten sheets. The air smelled stale — like dust and something faintly metallic. The only light came from the last streaks of the dying sun, casting an orange glow through the grimy window.
+
+And there, backed into a corner, tail puffed up like a bottle brush and eyes wide with fury — was Muffin.
+
+He wasn’t alone.
+
+A shadow loomed near him — not a figure, not a person — but something else. A mass of darkness, shifting, stretching, too tall and too thin. Its edges seemed to flicker, like it couldn’t quite decide what shape it wanted to be.
+
+And the worst part?
+
+It was //reaching for Muffin//.
+
+“Hey!” I shouted — which, in hindsight, was a terrible plan.
+
+The shadow jerked violently, shrinking back from the sound. For a brief second, I thought I saw something inside the darkness — two pale, hollow eyes staring at me from the void.
+
+Muffin hissed again.
+
+“Oh no, nope, absolutely not,” I babbled, because clearly, arguing with a supernatural shadow was the way to go.
+
+I didn’t wait for the shadow to decide what it wanted to do next.
+
+I lunged forward, grabbed Muffin — who, naturally, rewarded me by sinking his claws into my arm — and staggered back toward the door.
+
+The shadow didn’t follow.
+
+It just… stood there, rippling, watching.
+
+“Thanks for the help,” I told Muffin through gritted teeth as blood dripped down my arm. “Really appreciate the support.”
+
+Muffin growled in response — at me, at the shadow, at //everything//.
+
+The moment my foot crossed the threshold, the door slammed shut behind me.
+
+I ran.
+
+Muffin squirmed in my arms, his claws digging deeper, but I didn’t let go — not until I skidded to a stop at the front entrance, my heart doing its best impression of a drum solo.
+
+The door was still open.
+
+The house loomed behind me, dark and silent.
+
+Max burst outside a second later, out of breath and wild-eyed. “What happened? Did you see a ghost? Was it a full-body apparition or, like, just floating hands? Because I need details.”
+
+“I found Muffin,” I said, which felt like the understatement of the year.
+
+ His face fell. “Wait — you didn’t see a ghost? Not even a little one? Seriously? I heard you run out of the house and thought for sure you saw something cool. What a rip-off.” He kicked at a loose pebble on the ground. “I’m starting to think this place is only //half// haunted.”
+
+I didn’t bother correcting him  — because I knew that somewhere down that hallway — behind that slammed door — there was some creepy shadow still standing there.
+
+Waiting.
+
+And worst of all?
+
+I had a feeling it knew my name.
+
+
+
+:: Start {"position":"900,300","size":"100,100"}
+''Chapter 1 - The Cat, the House, and the Horrible Idea''
+
+No one ever plans to live next to a haunted house. It’s not something you put on a vision board or scribble onto a wishlist, right between “ocean view” and “walk-in closet.” And yet, despite all logic and a deep desire to not have ghosts for neighbors, here I stand — the newest resident of a town that appears to have been designed by someone who thought “mildly unsettling” was a valid architectural style.
+
+The house in question looms at the end of my street. It doesn’t just sit there. It //looms//. The windows — cracked and streaked with something that looks alarmingly like old tears — seem to follow you when you walk by, and the front porch sags like it's mourning the good old days when people still dared to cross it. I imagine the gate once kept intruders out, but now it just seems to whisper, "Come in if you dare," in the rustiest voice imaginable.
+
+None of this would be my problem if it weren’t for Muffin.
+
+That’s my cat. Don’t let the name fool you. He’s not a sweet, fluffy pastry of a pet. He’s a tyrant, wrapped in fur, with the decision-making skills of a sleep-deprived toddler. And today, when I opened my front door, Muffin bolted like he was late for an important meeting — with doom.
+
+I shouted his name, naturally. Because that always works.
+
+"Muffin! Stop! Come back! Sit! Stay! Have a shred of loyalty!"
+
+It didn’t work.
+
+Instead, he sprinted straight for the haunted house, his tail flicking behind him like a fluffy white flag of betrayal. I followed — because I’m the kind of person who foolishly believes that chasing after a cat will somehow solve anything — and ended up at the rusted iron gate.
+
+That’s when I noticed the door.
+
+It was open.
+
+Not wide open — that would be too obvious. No, it was half open, the way a mouth might be when it’s about to whisper a terrible secret. A secret like, "Your cat is in here, and so is something else."
+
+Now, I’m standing at the gate, the wind howling in a way that feels entirely too dramatic to be a coincidence, and Muffin is somewhere inside that house. The sky has dimmed to the exact shade of "impending doom gray," and my heart is pounding with the kind of rhythm usually reserved for last-minute math tests.
+
+I have two choices, both of which seem equally disastrous:
+
+[[1A<-Hurl myself through the front door like a noble — if slightly idiotic — hero in a story where the hero definitely gets eaten by something invisible.]]
+
+[[1B<-Call my new friend from school for backup — because misery loves company, and ghosts surely prefer a larger audience.]]
+
+
+
+:: StoryStylesheet [stylesheet]
+tw-story {	
+	background-color: #FFFFFF; 
+	/* Color is the foreground / font color */
+	color: #434343;
+	/* Make sure the first font listed is one of the fonts you imported above */
+	font-family: 'Calibri', sans-serif;
+	/* This makes the font size for normal letters just a little bit bigger than default */
+	font-size: 22px;
+	line-height: 200%;
+}
